@@ -11,3 +11,28 @@ bash install.sh
 ```
 
 To force re-install use `bash install.sh -f`
+
+## Usage ?
+
+```
+show-active-connections <port>
+```
+
+### Exemples:
+
+**IN ZSH SESSION FOR THE PORT `22`**
+```
+bash show-active-connections 22
+```
+
+or
+
+**IN BASH SESSION FOR THE PORT `22`**
+```
+show-active-connections 22
+```
+
+No more...
+Easy ? :)
+
+
