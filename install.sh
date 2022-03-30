@@ -24,3 +24,4 @@ else
 	installing
 	exit 0
 fi
+#By Rick Sanchez(0x07CB)
